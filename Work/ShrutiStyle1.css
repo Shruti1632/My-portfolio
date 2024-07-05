@@ -208,7 +208,7 @@ width: 100%;
 
 .work-list {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(375px, 1fr));
     grid-gap: 40px;
     margin-top: 50px;
 }
