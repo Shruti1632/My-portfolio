@@ -2,8 +2,6 @@
 
 Welcome to my **Personal Portfolio Website** repository! This project serves as a digital representation of my professional journey, showcasing my skills, projects, certifications, and contact information in a structured and responsive format.
 
-🔗 **Live Site**: [View Portfolio](https://shruti1632.github.io/My-portfolio)
-
 ---
 
 ## 📌 Project Description
